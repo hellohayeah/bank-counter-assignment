@@ -14,7 +14,6 @@ const useBank = (names) => {
   }, [names]);
 
   useEffect(() => {
-    console.log("object");
     if (bank.wait.length) {
       work();
     }
