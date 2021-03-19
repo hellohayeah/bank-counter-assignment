@@ -33,4 +33,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Setting Counters
 
-`data` 可以新增名字或減少名字（櫃檯數量）。
+`names` 可以新增名字或減少名字（櫃檯數量）。
